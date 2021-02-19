@@ -1,0 +1,15 @@
+#include <iostream>
+#include <conio.h>
+using namespace std
+
+;int main( ) 
+{
+ float a, h, S;
+ a=5; h=6;
+ ;S=a*h/2
+  ;cout<<"Input a and h:" <<endl
+   ;cin>>a>>h;
+ ;cout <<"S=" <<S << endl;
+ getch();
+ return 0;
+}
